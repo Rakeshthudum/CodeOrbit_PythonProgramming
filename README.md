@@ -158,7 +158,7 @@ CodeOrbit_PythonProgramming/
 │
 └── README.md
 
-Setup Instructions
+## Setup Instructions
 Step 1: Download or Clone the Repository
 
 Clone the repository using Git:
@@ -171,7 +171,7 @@ cd CodeOrbit_PythonProgramming
 
 You can also download the repository as a ZIP file from GitHub and extract it on your computer.
 
-How to Run the Projects
+## How to Run the Projects
 Simple Calculator
 
 Navigate to the calculator folder:
@@ -297,7 +297,7 @@ Division
 
 The program also handles invalid inputs such as division by zero.
 
-Error Handling
+## Error Handling
 
 The projects include input validation and exception handling to improve program reliability.
 
@@ -308,7 +308,8 @@ Division by zero
 Invalid menu choices
 Invalid task numbers
 Empty task input
-Learning Outcomes
+
+## Learning Outcomes
 
 Through these projects, I gained practical experience in:
 
@@ -325,7 +326,9 @@ Using Python's random number functionality
 Organizing Python projects into separate folders
 Testing applications using different input scenarios
 Using GitHub to maintain and showcase project source code
-Internship Task Completion
+
+
+## Internship Task Completion
 
 The 1-month Python Programming Internship includes the following tasks:
 
@@ -342,15 +345,15 @@ Completed Tasks
 
 Total Completed: 3/3 Tasks
 
-GitHub Repository
+## GitHub Repository
 
 Repository Name: CodeOrbit_PythonProgramming
 
-Repository Link:
+## Repository Link:
 
 https://github.com/Rakeshthudum/CodeOrbit_PythonProgramming
 
-Project Demonstration
+## Project Demonstration
 
 A project demonstration video can be shared on LinkedIn as part of the internship submission requirements.
 
@@ -362,24 +365,25 @@ Program execution
 Key features
 Sample output
 GitHub repository
-Internship Submission
+
+## Internship Submission
 
 The completed source code for all three projects is maintained in this GitHub repository.
 
 The required internship submission is completed through the submission form provided by CodeOrbit Technologies.
 
-Author
+## Author
 
 Rakeshthudum
 
-Python Programming Intern
+## Python Programming Intern
 CodeOrbit Technologies
 
-Acknowledgement
+## Acknowledgement
 
 I would like to thank CodeOrbit Technologies for providing this internship opportunity and for providing practical Python programming tasks that helped strengthen my programming and problem-solving skills.
 
-License
+## License
 
 This project was developed for educational and internship purposes.
 
