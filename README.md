@@ -41,6 +41,8 @@ Technologies Used
 * Command-Line Interface
 * Python Standard Library
 
+GitHub Repository:
+Repository: https://github.com/Rakeshthudum/CodeOrbit_PythonProgramming
 
 Repository Structure:
 CodeOrbit_PythonProgramming/
@@ -55,6 +57,15 @@ CodeOrbit_PythonProgramming/
 │   └── todo.py
 │
 └── README.md
+
+Setup Instructions:
+1. Install Python 3 from the official Python website.
+2. Clone or download this repository.
+3. Open a terminal in the required project folder.
+4. Run the Python file using:
+python calculator.py
+python guess_game.py
+python todo.py
 
 
 Internship:
